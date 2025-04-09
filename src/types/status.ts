@@ -1,0 +1,1 @@
+export type Status = "Win" | "Lose" | "Draw";
